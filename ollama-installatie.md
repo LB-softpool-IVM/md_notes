@@ -47,13 +47,14 @@ choco upgrade ollama
 ---
 
 ## 🚀 DeepSeek-Coder draaien met Ollama
-````
+
 Na installatie kun je het DeepSeek-Coder model downloaden en draaien met:
 
 ```ps1
 ollama pull deepseek-coder:1.3b  
 ollama run deepseek-coder:1.3b
 ```
+
 Dit opent een interactieve prompt waarin je codegerelateerde vragen kunt stellen.
 
 ---
